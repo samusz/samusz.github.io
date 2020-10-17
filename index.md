@@ -31,7 +31,6 @@ Still remains one fact : we are not fit for thinking and the famous quote says i
 
 ### **Proprioception** When the self is it's own mostly ignored sense.
 
-[About me](https://samusz.github.io/samusz.github.io/about/aboutme.md)
 
 ## Thinking processes 
 
@@ -44,4 +43,8 @@ Still remains one fact : we are not fit for thinking and the famous quote says i
 ## **testimony** Limitations due to believing testimony over real data study*
 ## history interpretation from the future fallacy : the bias of back propagation (not what it's usually called), 
 of seeing patterns where there are none, and o course of believing "we/I could have done better". 
+
+
+
+[About me](https://samusz.github.io/about/aboutme.md)
 
