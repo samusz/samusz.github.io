@@ -31,7 +31,7 @@ Still remains one fact : we are not fit for thinking and the famous quote says i
 
 ### **Proprioception** When the self is it's own mostly ignored sense.
 
-[About me](https://samusz.github.io/about/aboutme.md)
+[About me](https://samusz.github.io/samusz.github.io/about/aboutme.md)
 
 ## Thinking processes 
 
