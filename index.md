@@ -11,12 +11,24 @@ And this feeling makes our world view in and by itself overconfident.
 
 # Ways our mind turns on us
 
+This is creepy to even think about : our mind is in a brain. This brain is a biological entity that is the product of an evolutory process and of a deloppement process that both are not optimal in their design for logical and clear thinking. 
+
+Evolution isn't aimed at our thinking being 'right' or 'correct'; it's aimed at the human race survival at most and this is through the process of reproduction. Simple minds would say that implies we aren't suppose to live past reproduction age, 40 at most. but we'll see it's not that simple and our ability to live up to 80 or 100 yo has some evolutionnary impact researchers are now starting to discover/understand. 
+
+Still remains one fact : we are not fit for thinking and the famous quote says it : "Survival of the fittest".
+
+
+ 
 ## Blindspots: limitations of our senses
 
 ### **Vision** the actual blindspot, narrow frequency range and it's consequences 
+
 ### **Olfaction** A limited number of receptors for an infinity of molecules
+
 ### **Touch** When hands and feet are much more sensitive than bottoms and backs
+
 ### **Earing** Vibration perception only in a (very) limited frequency 
+
 ### **Proprioception** When the self is it's own mostly ignored sense.
 
 [About me](https://samusz.github.io/about/aboutme.md)
