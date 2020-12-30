@@ -43,6 +43,8 @@ Still remains one fact : we are not fit for thinking and the famous quote says i
 
 Limitations on models  and data
 
+
+
 ## **testimony**
 
 Limitations due to believing testimony over real data study*
@@ -54,6 +56,4 @@ Limitations due to believing testimony over real data study*
 of seeing patterns where there are none, and o course of believing "we/I could have done better". 
 
 
-
-[About me](https://samusz.github.io/about/aboutme)
-
+-*- [About me](https://samusz.github.io/about/aboutme)  -*- 
