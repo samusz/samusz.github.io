@@ -12,10 +12,18 @@ I will try my best to get to the point and not embelish this about me section wi
   
 >       Eucaryote > Animalia > Cordata > Mammal > Hominidae > *Primate* > *Homo* > *Sapiens Sapiens*
        
+
+
 - Genre 
 
-     Male (_No description needed_
+     Male (_No description needed_)
+     
+## Identity 
 
+_Name_ Sacha Muszlak  
+_nick/speudo/handle_ Samusz
+_Age_ 48 
+Maried, 2 boys
 
 ## Location
 
@@ -53,7 +61,26 @@ Gained some habillity to endure boredom, isolation, pain and solitude due to Cov
 . 
 - Hability to discard abberant data: limited
 
-# Why so limited **real** data on mylself ? 
+## Material & workflow 
+
+### MacBook Pro 13' nick "Pomme d'amour"
+Main pro machine for productivity and programming 
+
+### Dell 2-in-1 "DarkHole"
+Secondary pro machine with windows 
+
+### Lenovo 220X nick sentientBot
+
+
+## Games & Hobbies
+
+Games are reductionnists models of life invented to help us get control of our lives. As such, I am 
+- an adept ammateur Go/Weichi/Baduk player (See GO page ::TODO::
+
+## Appendix & Notes
+
+
+### Why so limited **real** data on mylself ? 
 
 See why anyone shouldn't ease the process of data collection online or otherwise on themselves better explained than I would by 
 Richard Stalmann in this video on YT : https://youtu.be/n9YDz-Iwgyw. In a few words : because I can and don't need to do otherwise. 
