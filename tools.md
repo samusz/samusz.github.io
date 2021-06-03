@@ -1,4 +1,6 @@
-*** tools *** 
+  𝄆  [About me](https://samusz.github.io/about/aboutme)  𝄄  [_tools setup_](https://samusz.github.io/about/tools) 𝄇
+
+--- 
 
 This page aims to describe some tools I use, their setups and my overall feeling about them. 
 
@@ -34,3 +36,5 @@ I have used this distro a lot, mostly with the Ubuntu distro but also the Debian
 Sh and bash moslty, fish at one point (I couldn't find a fix to be able to use regeps like 'ls *.pdf' so had chose something else as default), and finaly zsh. 
 Even had a try at elvish (not yet mature, great idea) . 
 
+---
+  𝄆  [About me](https://samusz.github.io/about/aboutme)  𝄄  [_tools setup_](https://samusz.github.io/about/tools) 𝄇
