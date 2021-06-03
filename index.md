@@ -1,3 +1,7 @@
+  ⚛ [About me](https://samusz.github.io/about/aboutme)  ⚛  [_tools setup_](https://samusz.github.io/about/tools) ⚛
+
+---
+
 
 # Welcome to Terra Inco Gnito. 
 
@@ -55,5 +59,5 @@ Limitations due to believing testimony over real data study*
 
 of seeing patterns where there are none, and o course of believing "we/I could have done better". 
 
-
--*- [About me](https://samusz.github.io/about/aboutme)  -*- 
+---
+-*- [About me](https://samusz.github.io/about/aboutme)  -*- [_tools setup_](https://samusz.github.io/about/tools) -*-
