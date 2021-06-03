@@ -1,6 +1,8 @@
   𝄆  [About me](https://samusz.github.io/about/aboutme)  𝄄  [_tools setup_](https://samusz.github.io/about/tools) 𝄇
 
 --- 
+[WIP]
+
 
 This page aims to describe some tools I use, their setups and my overall feeling about them. 
 
