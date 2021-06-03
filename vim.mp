@@ -12,3 +12,9 @@ Usually it comes down to what the team uses as an OS and if Windo$, the word, if
 
 
 # Editors 
+
+
+
+---
+
+  𝄆  [About me](https://samusz.github.io/about/aboutme)  𝄄  [_tools setup_](https://samusz.github.io/about/tools) 𝄇
