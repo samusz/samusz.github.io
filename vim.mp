@@ -37,7 +37,18 @@ Way far it's about preservation and archiving. This matters too.
 
 
 
-# Editors 
+# Text Editors 
+
+## Wysiwyg or not ? 
+
+## Open formats
+
+## Learning curve 
+
+## Outputs
+
+So many possible outputs : paper, screen, books, ebooks, presentations, flyers, visit cards, CVs, interactive learning... 
+
 
 
 ---
